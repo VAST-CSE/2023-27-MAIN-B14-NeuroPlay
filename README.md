@@ -1,4 +1,4 @@
-# 🌈 BrightSteps
+# 🌈 NeuroPlay
 
 ### A Unified Game-Based Platform for Preliminary Screening of Dyslexia, Dyscalculia and ADHD
 
