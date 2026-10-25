@@ -6,7 +6,7 @@
 ![Domain](https://img.shields.io/badge/domain-EdTech%20%7C%20AI%2FML-blue)
 ![Backend](https://img.shields.io/badge/backend-Flask-lightgrey)
 ![Database](https://img.shields.io/badge/database-SQLite-green)
-[![License](https://img.shields.io/badge/license-%5BLicense%5D-lightgrey)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green)](unified_learning_platform/LICENSE)
 
 > An engaging, parent-facing platform where children (ages 5–10) play short games that capture accuracy, reaction time and error patterns, producing an **indicative** learning profile for further professional evaluation.
 
@@ -205,6 +205,7 @@ Planned assessment games from the project plan:
 unified_learning_platform/
 ├── app.py                 # Flask app: auth, profiles, games, results, report
 ├── requirements.txt       # Flask, Werkzeug
+├── LICENSE                # MIT License
 ├── data/                  # SQLite database (created at runtime)
 ├── templates/             # base, landing, login, register, dashboard,
 │                          # game_reading, game_number, game_focus, report
@@ -233,8 +234,8 @@ unified_learning_platform/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Nasri3112/BrightSteps_unified_platform_milestone_fixed.git
-cd BrightSteps_unified_platform_milestone_fixed/unified_learning_platform
+git clone https://github.com/VAST-CSE/2023-27-MAIN-B14-NeuroPlay.git
+cd 2023-27-MAIN-B14-NeuroPlay/unified_learning_platform
 
 # 2. Create and activate a virtual environment (Windows Command Prompt)
 python -m venv venv
@@ -315,7 +316,10 @@ Set a strong `SECRET_KEY` before any non-local deployment. `[Production deployme
 
 ## 📄 License
 
-**This project is licensed under the [MIT License](LICENSE).**
+This project is licensed under the [MIT License](unified_learning_platform/LICENSE).
+
+Copyright (c) 2026 Group 14, Vidya Academy of Science and Technology.
+
 ---
 
 <p align="center">Made by Group 14, Vidya Academy of Science and Technology</p>
