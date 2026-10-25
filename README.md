@@ -315,8 +315,8 @@ Set a strong `SECRET_KEY` before any non-local deployment. `[Production deployme
 
 ## 📄 License
 
-`[License]` — add a `LICENSE` file and update the badge above before publishing.
-
+📄 License
+This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">Made by Group 14, Vidya Academy of Science and Technology</p>
