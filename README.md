@@ -315,7 +315,6 @@ Set a strong `SECRET_KEY` before any non-local deployment. `[Production deployme
 
 ## 📄 License
 
-📄 License
 This project is licensed under the [MIT License](LICENSE).
 ---
 
